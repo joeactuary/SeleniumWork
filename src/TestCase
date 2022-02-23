@@ -1,0 +1,24 @@
+User Story Q456
+Reqmt:  Write test cases for Image upload feature that has only upload form with upload field and buttons for upload and cancel.
+
+tCQ456v
+
+
+Pre-Conditions
+Adin User logged in application with credentials
+
+Inputs
+                                                    S
+
+Step #      Actual                                          Expected
+1           Button is displayed                             As expected
+1.5          Can
+2           User clicks button
+3           ENtry bix is displayed
+4           User enters file
+5           User clicks submit Box
+6           Insert message "successful" displayed per Testdata15
+
+Actual
+
+
